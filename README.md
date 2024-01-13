@@ -1,7 +1,7 @@
 E-Commerce
 =========
 ### This is a react based website complete front-end and backend is made with React.js.
-
+### Click here for Demo-> https://e-commerce-beige-mu.vercel.app/
 # Getting Started with Creation of React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,8 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Click here for Demo-> https://e-commerce-beige-mu.vercel.app/
 
-###   This project is guided by Great Stack on YouTube and I have also completed it under him.
+
+ NOTE: This project is guided by GreatStack on YouTube and I have also completed it under him.
 Here, is the link to the project for more explanation.
 https://youtu.be/jbfuzcrfjqQ?si=4euZt4WIJwKC5xGI
